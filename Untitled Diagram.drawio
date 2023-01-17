@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T17:49:33.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="tMPW75mdCXdm4VPbuKsD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T17:51:20.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="JP5BDrPcR2qL3ikPxg3r" type="github">
   <diagram id="A7ms7kUpwD3qeQYLVmXG" name="Page-1">
     <mxGraphModel dx="880" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         <mxCell id="K0uaTNfaGxvIkHt9UpJX-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;DMS Replication Instances&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K0uaTNfaGxvIkHt9UpJX-19" value="DATE REPLICATION FROM MYSQL DATABASE TO S3 DATA LAKE USING AWS DMS" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="K0uaTNfaGxvIkHt9UpJX-19" value="DATA REPLICATION FROM MYSQL DATABASE TO S3 DATA LAKE USING AWS DMS" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="710" height="430" as="geometry" />
         </mxCell>
         <mxCell id="K0uaTNfaGxvIkHt9UpJX-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;S3 Lake Bucket&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="K0uaTNfaGxvIkHt9UpJX-19">
